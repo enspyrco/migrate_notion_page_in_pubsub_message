@@ -1,6 +1,6 @@
 # migrate_notion_page_in_pubsub_message
 
-*A microservice that migrates a Notion page at the URL received in a Pub/Sub message.*
+*A microservice that migrates a Notion page at the URL received in a Pub/Sub message, to Discord.*
 
 [Project Notes](https://enspyrco.notion.site/migrate_notion_page_in_pubsub_message-f00c571f3ee343c485a1958d32a1b45d?pvs=4)
 
